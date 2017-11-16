@@ -1,0 +1,42 @@
+.picturesection{
+	background-color:  var(--grey);
+}
+
+.section_text{
+	height: 215px;
+	width: 435px;
+	padding-top: 110px;
+	float: left;
+}
+
+.section_title{
+	color:var(--grey1);
+	font-family:'Open Sans', sans-serif;
+ 	font-weight: 700;
+ 	text-transform: capitalize;
+ 	padding-bottom: 15px;
+ 	font-size: 20px;
+}
+
+.section_line{
+
+}
+
+.section_artical1{
+	color:var(--grey2);
+	padding-top: 30px;
+	font-family:'Open Sans', sans-serif;
+	font-size: 14px;
+}
+.section_artical2{
+	color:var(--grey2);
+	padding-top: 30px;
+	font-family:'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.section_img {
+	padding-top: 85px;
+	padding-left: 600px;
+	padding-bottom: 100px;
+}

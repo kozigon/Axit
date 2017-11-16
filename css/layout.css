@@ -1,0 +1,61 @@
+html,
+body {
+	height: 100%;
+
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+.container {
+	max-width: 1110px;
+	padding-left: 6px;
+	padding-right: 6px;
+	margin: 0 auto;
+	
+}
+
+.container--header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 100%;
+}
+
+.container--welcome{
+ 	
+ }
+
+ .container--social{
+	height: 105px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+ }
+
+
+ .container--tabs{
+	
+
+ }
+
+ .container--sublist{
+ 	
+ }
+
+ .container--picturesection{
+ 	
+ }
+
+.container--awesomescreen{
+	
+}
+
+.container--pricing{
+	
+}
+
+.container--whatsaying{
+	
+}

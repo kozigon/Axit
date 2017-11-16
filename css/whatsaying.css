@@ -1,0 +1,84 @@
+.whatsaying{
+	background-color: var(--white);
+}
+
+.what_text{
+	text-align: center;
+	padding-top: 110px;
+}
+.what_text_title{
+	color: var(--black);
+	text-transform: uppercase;
+	font-family:'Raleway', sans-serif;
+	font-size: 36px;
+}
+.what_line{
+	padding: 30px 0;
+}
+.what_text_article{
+	color: var(--grey2);
+	font-size: 14px;
+}
+
+.what_list{
+	padding-top: 60px;
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 100px;
+}
+.what_list_text_block{
+	width: 275px;
+	height: 225px;
+
+}
+.what_list_text{
+	color: var(--grey1);
+	border: 1px solid;
+	border-color: var(--grey);
+  border-radius: 2px;
+  padding: 20px;
+  position: relative;
+  font-size: 14px;
+  font-style: italic;
+  background-color: var(--grey);
+}
+
+
+.what_list_text::before, .what_list_text::after {
+	content: ''; 
+	position: absolute;
+	left: 20px; bottom: -20px;
+	border: 10px solid transparent;
+	border-top: 10px solid;
+	border-top-color: var(--grey);
+	}
+
+
+.what_list_text::after {
+	border-top: 10px solid;
+	border-top-color: var(--grey);
+	bottom: -15px; 
+}
+
+
+.what_avatar{
+	padding-top: 25px;
+	display: inline-block;
+	float: left;
+	padding-right: 15px;
+}
+
+.what_block_text{
+	padding-top: 40px;
+
+}
+
+.what_name{
+	font-size: 20px;
+	font-weight: bold;
+	color: var(--grey1);
+}
+.what_position{
+	font-size: 14px;
+	color:var(--grey2);
+}

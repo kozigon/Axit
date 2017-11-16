@@ -1,0 +1,128 @@
+.contactsus{
+	background-color: var(--white);
+}
+
+.contactus_text{
+	text-align: center;
+}
+.contactus_title{
+	font-size: 36px;
+	font-family: 'Raleway', sans-serif;
+	color:var(--grey1);
+	text-transform: uppercase;
+	padding-top: 105px;
+}
+.contactusline{
+	padding: 30px 0;
+}
+.contactus_text{
+	font-size: 14px;
+	font-family:'Open Sans', sans-serif;
+	color:var(--grey2);
+	padding-bottom: 90px;
+}
+
+.contactus_form{
+	padding-bottom: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.contact_us_form{
+	margin: 0px 140px;
+}
+
+.contact_us_input_div{
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+}
+.contact_us_input{
+	width: 525px;
+	display: block;
+	border: none;
+	border-bottom: 1px solid;
+	border-color: var(--grey2);
+	font-size: 14px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 5px;
+	margin-bottom: 30px;
+	padding-right: 40px;
+}
+
+
+.contact_us_input_div.textarea{
+	padding-top: 10px;
+	width: 525px;
+	border-bottom: 1px solid;
+	border-color: var(--grey2);
+	font-size: 14px;
+	padding-top: 12px;
+	padding-left: 5px;
+	
+}
+
+textarea{
+	border: none;
+	resize: none;
+	width: 100%;
+	height: 175px;
+	overflow: auto;
+}
+.contact_us_button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 145px;
+	height: 45px;
+	background-color: #ff9b51;
+	color:#fff;
+	font-weight: 500;
+	font-size: 15px;
+	border:none;
+	border-radius: 2px;
+	box-shadow: 0 5px 10px -5px;
+}
+
+
+textarea:focus, input:focus
+{
+  outline: none;
+}
+
+/*
+.contactus_form input,
+.contactus_form textarea
+{
+    width: 50%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+
+.contactus_form textarea{
+	float: left;
+	padding-bottom: 50px;
+}
+
+.contact_us_form {
+	display:block;
+	vertical-align: top;
+	text-align: left;
+}
+
+/*.input_n_e_s{
+	width: 530px;
+	border: none;
+	border-bottom: 1px solid;
+	border-color: var(--grey2);
+	font-size: 14px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 5px;
+	margin-bottom: 30px;
+}
+*/

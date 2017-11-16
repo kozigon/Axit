@@ -1,0 +1,111 @@
+.pricing{
+	background-color: var(--grey)
+}
+.pricing_text{
+	text-align: center;
+	padding-top: 105px;
+}
+.pricing_title{
+	color:var(--black);
+	text-transform: uppercase;
+	font-size: 36px;
+	font-family:'Raleway', sans-serif;
+}
+.pricing_line{
+	padding: 30px 0;
+}
+.pricing_article{
+	font-family:'Open Sans', sans-serif;
+	color:var(--grey2);
+	font-size: 14px;
+}
+.pricing_list{
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 100px;
+}
+.list_basic{
+	text-align: center;
+	padding-top: 85px;
+}
+.list_basic1{
+	margin-top: 35px;
+	width: 345px;
+	height: 60px;
+	background-color: var(--grey1);
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid white;
+}
+.list_div_title{
+	font-size: 20px;
+	font-weight: bold;
+}
+.list_basic2{
+	width: 345px;
+	height: 155px;
+	background-color: var(--grey1);
+	border-bottom: 5px solid ;
+	border-color: var(--orange);
+}
+.list_div_price{
+	padding-top: 30px ;
+	font-family:'Raleway', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+}
+.list_div_text{
+	font-weight: 300;
+	font-style: italic;
+	padding-top: 15px;
+	color: var(--grey2);
+}
+.list_basic_advance{
+	height: 45px;
+	width: 345px;
+	background-color: var(--white);
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid;
+	border-color: var(--grey);
+}
+.list_basic_advance_text{
+	color: var(--grey2);
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.list_prof{
+	padding-top: 85px;
+	text-align: center;
+}
+.list_prof1{
+	width: 345px;
+	height: 60px;
+	background-color: var(--grey1);
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid white;
+}
+.list_prof2{
+	height: 150px;
+	width: 345px;
+	background-color: var(--grey1);
+}
+.list_prof3{
+	height: 40px;
+	width:345px;
+	background-color: var(--orange);
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+.list_prof3_text3{
+	text-transform: uppercase;
+}
+.dol{
+	font-size: 34px;
+	color: var(--white);
+}

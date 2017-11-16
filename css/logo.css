@@ -1,0 +1,7 @@
+.logo:hover {
+	 transform: scale(1.2);
+	}
+.logo{
+	transition-duration: .4s;
+}
+	

@@ -1,0 +1,29 @@
+footer{
+	height: 85px;
+	background-color: var(--black);
+}
+
+.footer_awesome{
+	text-align: center;
+	padding-top: 23px;
+	padding-bottom: 15px;
+}
+
+
+.pfooter{
+	text-align: center;
+	font-size: 12px;
+	font-family:'Open Sans', sans-serif;
+}
+
+.footer .footer_awesome a{
+	margin-right: 32px;
+}
+
+ a span:hover {
+    transform: scale(1.8);
+}
+
+ a span{
+	transition-duration: .5s;
+}

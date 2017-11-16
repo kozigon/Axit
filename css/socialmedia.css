@@ -1,0 +1,26 @@
+.social{
+	background-color: var(--white)
+}
+.soc_text{
+	width: 360px;
+}
+
+
+.sm_title{
+	color:var(--grey1);
+	font-size: 20px;
+}
+
+.sm_text{
+	color:var(--grey2);
+	font-size: 14px;
+}
+
+a span.fa{
+	color: var(--grey2);
+}
+
+
+
+
+

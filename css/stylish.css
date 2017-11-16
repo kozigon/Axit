@@ -1,0 +1,46 @@
+.bg4{
+	background-color: var(--white);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-size: cover;
+	background-attachment: scroll;
+}
+
+
+.stylish_text{
+	text-align: center;
+}
+
+
+.stylish_title{
+	text-transform: uppercase;
+	font-size: 36px;
+	padding-top: 75px;
+	padding-bottom: 30px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.whiteline{
+padding-bottom: 30px;
+}
+.stylish_article{
+	font-size: 16px;
+	font-weight: lighter;
+	color: var(--grey2);
+	font-family: 'Raleway', sans-serif;
+}
+
+.buttondown_{
+ 	padding-top: 55px;
+ 	padding-bottom: 65px;
+ }
+
+ .buttondownload_{
+ 	color: var(--white);
+ 	font-family:'Open Sans', sans-serif;
+ 	font-weight: 600;
+ 	border:3px solid;
+ 	background: rgba(0,0,0, .0);
+ 	padding: 15px 30px;
+ 	font-size: 15px;
+ }
